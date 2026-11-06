@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="DejaVu Sans"><title>Docking pilot paired outcomes</title><rect x="0" y="0" width="760" height="420" rx="0" fill="#f0f6fc"/><text x="30" y="49" font-size="34" font-weight="bold" text-anchor="start" fill="#102641">Same scenario. Two outcomes.</text>
+<text x="30" y="82" font-size="23" font-weight="normal" text-anchor="start" fill="#102641">Synthetic docking pilot · 12 matched trials</text>
+<rect x="30" y="112" width="340" height="120" rx="12" fill="#d9e9f7"/>
+<text x="48" y="149" font-size="26" font-weight="bold" text-anchor="start" fill="#102641">Both succeed</text>
+<text x="48" y="207" font-size="46" font-weight="bold" text-anchor="start" fill="#102641">5</text>
+<rect x="390" y="112" width="340" height="120" rx="12" fill="#c9f0e2"/>
+<text x="408" y="149" font-size="26" font-weight="bold" text-anchor="start" fill="#102641">Candidate only</text>
+<text x="408" y="207" font-size="46" font-weight="bold" text-anchor="start" fill="#102641">4</text>
+<rect x="30" y="252" width="340" height="120" rx="12" fill="#fae1b9"/>
+<text x="48" y="289" font-size="26" font-weight="bold" text-anchor="start" fill="#102641">Baseline only</text>
+<text x="48" y="347" font-size="46" font-weight="bold" text-anchor="start" fill="#102641">1</text>
+<rect x="390" y="252" width="340" height="120" rx="12" fill="#d9e9f7"/>
+<text x="408" y="289" font-size="26" font-weight="bold" text-anchor="start" fill="#102641">Neither succeeds</text>
+<text x="408" y="347" font-size="46" font-weight="bold" text-anchor="start" fill="#102641">2</text></svg>

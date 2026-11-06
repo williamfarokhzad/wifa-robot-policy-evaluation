@@ -1,0 +1,13 @@
+scenario,baseline,candidate
+dock01,success,success
+dock02,success,success
+dock03,success,success
+dock04,success,success
+dock05,success,success
+dock06,success,timeout
+dock07,failure,success
+dock08,timeout,success
+dock09,timeout,success
+dock10,failure,success
+dock11,timeout,failure
+dock12,failure,failure
